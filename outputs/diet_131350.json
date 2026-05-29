@@ -1,0 +1,87 @@
+{
+  "disease": "diabetes",
+  "diet": {
+    "eat": [
+      "apple",
+      "spinach",
+      "brown rice",
+      "fish",
+      "broccoli",
+      "oats",
+      "egg yolk",
+      "beetroot",
+      "mushrooms",
+      "lentils",
+      "berries"
+    ],
+    "avoid": [
+      "sugar",
+      "white bread",
+      "fried food",
+      "soft drinks",
+      "processed snacks"
+    ],
+    "meals": {
+      "breakfast": [
+        "Oats with milk and berries",
+        "Vegetable poha",
+        "Boiled eggs with multigrain toast"
+      ],
+      "lunch": [
+        "Brown rice + dal + vegetables",
+        "Chapati + sabzi + salad",
+        "Quinoa bowl with veggies"
+      ],
+      "dinner": [
+        "Grilled fish + salad",
+        "Vegetable soup + roti",
+        "Paneer stir fry with vegetables"
+      ],
+      "snacks": [
+        "Nuts",
+        "Apple slices",
+        "Roasted chickpeas"
+      ]
+    },
+    "calories": 1750,
+    "bmi": 24.22,
+    "tips": [
+      "BMI: 24.22",
+      "Daily Calories: 1750",
+      "Goal: maintenance"
+    ],
+    "removed_items": [
+      "wheat",
+      "peanuts",
+      "almonds",
+      "walnuts",
+      "flour",
+      "hazelnuts",
+      "maida",
+      "rye",
+      "bread",
+      "barley",
+      "pistachios",
+      "noodles",
+      "cashews",
+      "pasta"
+    ]
+  },
+  "nutrition": {
+    "calories": "2135 kcal/day",
+    "protein": "105 g",
+    "carbs": "302 g",
+    "fat": "56 g",
+    "meal_split": {
+      "breakfast": 533,
+      "lunch": 747,
+      "dinner": 533,
+      "snacks": 320
+    }
+  },
+  "recipes": {
+    "breakfast": "Oats bowl",
+    "lunch": "Dal + rice",
+    "dinner": "Grilled vegetables"
+  }
+}

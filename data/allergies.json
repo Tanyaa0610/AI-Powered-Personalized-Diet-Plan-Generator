@@ -1,0 +1,19 @@
+{
+  "nuts": ["almonds", "peanuts", "walnuts", "cashews", "pistachios", "hazelnuts"],
+  "dairy": ["milk", "cheese", "butter", "yogurt", "cream", "paneer"],
+  "gluten": ["wheat", "bread", "pasta", "noodles", "flour", "maida", "barley", "rye"],
+  "seafood": ["fish", "shrimp", "crab", "lobster", "prawns"],
+  "soy": ["soybeans", "tofu", "soy milk", "soy sauce"],
+  "eggs": ["egg", "mayonnaise"],
+  "shellfish": ["shrimp", "crab", "lobster"],
+  "sesame": ["sesame seeds", "til", "tahini"],
+  "corn": ["corn", "maize", "cornflour", "corn syrup"],
+  "citrus": ["orange", "lemon", "lime", "grapefruit"],
+  "nightshade": ["tomato", "potato", "eggplant", "bell pepper"],
+  "sugar": ["sugar", "sweets", "chocolate", "candy"],
+  "caffeine": ["coffee", "tea", "cola", "energy drinks"],
+  "spices": ["chili", "pepper", "garam masala"],
+  "legumes": ["lentils", "beans", "peas", "chickpeas"],
+  "fruits": ["strawberry", "kiwi", "banana", "mango"],
+  "artificial_additives": ["preservatives", "food color", "flavor enhancers"]
+}

@@ -1,0 +1,72 @@
+{
+  "disease": "pcos",
+  "diet": {
+    "eat": [
+      "nuts",
+      "whole grains",
+      "spinach",
+      "beetroot",
+      "egg yolk",
+      "mushrooms",
+      "leafy greens"
+    ],
+    "avoid": [
+      "sugar",
+      "processed food"
+    ],
+    "meals": {
+      "breakfast": [
+        "Oats + seeds",
+        "Smoothie with flaxseeds",
+        "Boiled eggs + toast"
+      ],
+      "lunch": [
+        "Quinoa + vegetables",
+        "Chapati + sabzi",
+        "Brown rice + dal"
+      ],
+      "dinner": [
+        "Grilled paneer + salad",
+        "Vegetable soup",
+        "Stir-fried vegetables"
+      ],
+      "snacks": [
+        "Nuts",
+        "Seeds mix",
+        "Fruit bowl"
+      ]
+    },
+    "calories": 1450,
+    "bmi": 21.37,
+    "tips": [
+      "BMI: 21.37",
+      "Daily Calories: 1450",
+      "Goal: weight loss"
+    ],
+    "removed_items": [
+      "hazelnuts",
+      "cashews",
+      "walnuts",
+      "almonds",
+      "peanuts",
+      "pistachios"
+    ]
+  },
+  "nutrition": {
+    "calories": "1824 kcal/day",
+    "protein": "105 g",
+    "carbs": "225 g",
+    "fat": "56 g",
+    "meal_split": {
+      "breakfast": 456,
+      "lunch": 638,
+      "dinner": 456,
+      "snacks": 273
+    }
+  },
+  "recipes": {
+    "breakfast": "Oats bowl",
+    "lunch": "Dal + rice",
+    "dinner": "Grilled vegetables"
+  }
+}

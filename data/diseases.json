@@ -1,0 +1,173 @@
+{
+  "diabetes": {
+    "eat": ["oats", "brown rice", "spinach", "broccoli", "lentils", "apple", "berries", "fish"],
+    "avoid": ["sugar", "white bread", "fried food", "soft drinks", "processed snacks"],
+    "meals": {
+      "breakfast": [
+        "Oats with milk and berries",
+        "Vegetable poha",
+        "Boiled eggs with multigrain toast"
+      ],
+      "lunch": [
+        "Brown rice + dal + vegetables",
+        "Chapati + sabzi + salad",
+        "Quinoa bowl with veggies"
+      ],
+      "dinner": [
+        "Grilled fish + salad",
+        "Vegetable soup + roti",
+        "Paneer stir fry with vegetables"
+      ],
+      "snacks": [
+        "Nuts",
+        "Apple slices",
+        "Roasted chickpeas"
+      ]
+    },
+    "tips": ["Maintain low sugar intake", "Eat high fiber foods"]
+  },
+
+  "hypertension": {
+    "eat": ["banana", "spinach", "oats", "beans"],
+    "avoid": ["salt", "processed food"],
+    "meals": {
+      "breakfast": [
+        "Fruit bowl + oats",
+        "Smoothie with banana and spinach",
+        "Whole grain toast + avocado"
+      ],
+      "lunch": [
+        "Chapati + sabzi + dal",
+        "Brown rice + vegetables",
+        "Vegetable khichdi"
+      ],
+      "dinner": [
+        "Soup + salad",
+        "Grilled vegetables + roti",
+        "Steamed veggies + lentils"
+      ],
+      "snacks": [
+        "Unsalted nuts",
+        "Fruits",
+        "Roasted makhana"
+      ]
+    },
+    "tips": ["Reduce sodium intake", "Stay hydrated"]
+  },
+
+  "obesity": {
+    "eat": ["vegetables", "fruits", "lean protein"],
+    "avoid": ["fast food", "sugary drinks"],
+    "meals": {
+      "breakfast": [
+        "Fruit smoothie",
+        "Oats with fruits",
+        "Boiled eggs + toast"
+      ],
+      "lunch": [
+        "Vegetable quinoa bowl",
+        "Chapati + sabzi",
+        "Grilled chicken + salad"
+      ],
+      "dinner": [
+        "Vegetable soup",
+        "Grilled vegetables",
+        "Paneer salad"
+      ],
+      "snacks": [
+        "Roasted chickpeas",
+        "Fruits",
+        "Nuts (limited)"
+      ]
+    },
+    "tips": ["Maintain calorie deficit"]
+  },
+
+  "pcos": {
+    "eat": ["whole grains", "leafy greens", "nuts"],
+    "avoid": ["sugar", "processed food"],
+    "meals": {
+      "breakfast": [
+        "Oats + seeds",
+        "Smoothie with flaxseeds",
+        "Boiled eggs + toast"
+      ],
+      "lunch": [
+        "Quinoa + vegetables",
+        "Chapati + sabzi",
+        "Brown rice + dal"
+      ],
+      "dinner": [
+        "Grilled paneer + salad",
+        "Vegetable soup",
+        "Stir-fried vegetables"
+      ],
+      "snacks": [
+        "Nuts",
+        "Seeds mix",
+        "Fruit bowl"
+      ]
+    },
+    "tips": ["Balance hormones"]
+  },
+
+  "anemia": {
+    "eat": ["spinach", "beetroot", "dates"],
+    "avoid": ["tea with meals"],
+    "meals": {
+      "breakfast": [
+        "Dates + milk",
+        "Beetroot juice",
+        "Eggs + toast"
+      ],
+      "lunch": [
+        "Spinach curry + roti",
+        "Lentil soup + rice",
+        "Chicken + vegetables"
+      ],
+      "dinner": [
+        "Vegetable soup",
+        "Paneer + sabzi",
+        "Dal + roti"
+      ],
+      "snacks": [
+        "Fruit bowl",
+        "Nuts",
+        "Pomegranate"
+      ]
+    },
+    "tips": ["Increase iron intake"]
+  },
+
+  "default": {
+    "eat": ["vegetables", "fruits", "whole grains", "lean protein"],
+    "avoid": ["processed food", "excess sugar", "fried food"],
+    "meals": {
+      "breakfast": [
+        "Oats + fruits",
+        "Smoothie",
+        "Boiled eggs + toast"
+      ],
+      "lunch": [
+        "Rice + dal + vegetables",
+        "Chapati + sabzi",
+        "Quinoa bowl"
+      ],
+      "dinner": [
+        "Soup + salad",
+        "Grilled vegetables",
+        "Paneer + roti"
+      ],
+      "snacks": [
+        "Fruits",
+        "Nuts",
+        "Roasted chickpeas"
+      ]
+    },
+    "tips": [
+      "Maintain balanced diet",
+      "Stay hydrated",
+      "Exercise regularly"
+    ]
+  }
+}
